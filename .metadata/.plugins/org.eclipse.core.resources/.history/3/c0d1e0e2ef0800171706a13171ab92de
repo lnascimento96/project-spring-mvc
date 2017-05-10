@@ -1,0 +1,8 @@
+package com.algaworks.brewer.config;
+
+import org.springframework.context.annotation.Configuration;
+
+@Configuration
+public class WebConfig {
+
+}

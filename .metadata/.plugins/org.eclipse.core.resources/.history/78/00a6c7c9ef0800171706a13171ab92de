@@ -1,0 +1,5 @@
+package com.algaworks.brewer.config;
+
+public class WebConfig {
+
+}
