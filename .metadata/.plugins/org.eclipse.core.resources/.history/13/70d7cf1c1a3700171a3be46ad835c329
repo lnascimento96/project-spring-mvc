@@ -24,7 +24,7 @@ public class Cerveja {
 	}
 
 	public String getNome() {
-		return nome;
+		return nom;
 	}
 
 	public void setNome(String nome) {
