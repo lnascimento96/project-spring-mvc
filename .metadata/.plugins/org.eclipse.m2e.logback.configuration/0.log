@@ -1253,3 +1253,22 @@ Caused by: org.codehaus.plexus.util.xml.pull.XmlPullParserException: only whites
 2017-03-17 13:26:41,045 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
 2017-03-17 13:26:41,045 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2017-03-17 13:26:41,045 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-05-12 10:42:49,758 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-12 10:42:49,913 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 47 resources
+2017-05-12 10:42:50,087 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-12 10:42:50,100 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-05-12 10:43:36,064 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-12 10:43:36,086 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 47 resources
+2017-05-12 10:43:36,092 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-12 10:43:36,092 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-05-12 10:51:35,261 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-12 10:51:35,270 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 47 resources
+2017-05-12 10:51:35,279 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-12 10:51:35,279 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-05-12 11:35:58,133 [Worker-27] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.algaworks:brewer:1.0.0-SNAPSHOT @ C:\git\projeto\spring-mvc\brewer\pom.xml.
+2017-05-12 11:35:59,040 [Worker-27] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for nz.net.ultraq.thymeleaf:thymeleaf-layout-dialect:jar:2.0.0-SNAPSHOT is missing, no dependency information available
+2017-05-12 11:35:59,802 [Worker-27] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for nz.net.ultraq.thymeleaf:thymeleaf-layout-dialect:jar:2.0.0-SNAPSHOT is missing, no dependency information available
+2017-05-12 11:36:01,360 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-12 11:36:01,361 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-05-12 11:36:01,362 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-12 11:36:01,363 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
