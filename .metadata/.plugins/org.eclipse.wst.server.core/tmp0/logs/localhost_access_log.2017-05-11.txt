@@ -1,0 +1,17 @@
+127.0.0.1 - - [11/May/2017:11:55:11 -0300] "GET / HTTP/1.1" 404 994
+127.0.0.1 - - [11/May/2017:11:55:33 -0300] "GET / HTTP/1.1" 404 994
+127.0.0.1 - - [11/May/2017:11:56:56 -0300] "GET / HTTP/1.1" 404 994
+127.0.0.1 - - [11/May/2017:11:57:46 -0300] "GET / HTTP/1.1" 404 994
+127.0.0.1 - - [11/May/2017:11:58:28 -0300] "GET / HTTP/1.1" 404 994
+127.0.0.1 - - [11/May/2017:12:06:38 -0300] "GET / HTTP/1.1" 404 994
+0:0:0:0:0:0:0:1 - - [11/May/2017:12:07:34 -0300] "GET /brewer/cervejas/novo HTTP/1.1" 200 7221
+0:0:0:0:0:0:0:1 - - [11/May/2017:12:07:34 -0300] "GET /brewer/images/logo.png HTTP/1.1" 404 992
+0:0:0:0:0:0:0:1 - - [11/May/2017:12:07:34 -0300] "GET /brewer/layout/stylesheets/application.css HTTP/1.1" 200 1091
+0:0:0:0:0:0:0:1 - - [11/May/2017:12:07:34 -0300] "GET /brewer/layout/stylesheets/algaworks.min.css HTTP/1.1" 200 8699
+0:0:0:0:0:0:0:1 - - [11/May/2017:12:07:34 -0300] "GET /brewer/layout/javascripts/vendors.min.js HTTP/1.1" 200 145096
+0:0:0:0:0:0:0:1 - - [11/May/2017:12:07:34 -0300] "GET /brewer/layout/stylesheets/vendors.min.css HTTP/1.1" 200 167935
+0:0:0:0:0:0:0:1 - - [11/May/2017:12:07:34 -0300] "GET /brewer/layout/javascripts/algaworks.min.js HTTP/1.1" 200 1433
+0:0:0:0:0:0:0:1 - - [11/May/2017:12:07:34 -0300] "GET /brewer/javascripts/vendors/jquery.maskMoney.min.js HTTP/1.1" 200 5062
+0:0:0:0:0:0:0:1 - - [11/May/2017:12:07:34 -0300] "GET /brewer/javascripts/brewer.js HTTP/1.1" 200 140
+0:0:0:0:0:0:0:1 - - [11/May/2017:12:07:34 -0300] "GET /brewer/layout/vendors/font-awesome/fonts/fontawesome-webfont.woff2?v=4.6.1 HTTP/1.1" 200 70728
+0:0:0:0:0:0:0:1 - - [11/May/2017:12:07:35 -0300] "GET /favicon.ico HTTP/1.1" 404 1016
